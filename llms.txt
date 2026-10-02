@@ -10,14 +10,14 @@ and development kits.
 Our common Rust library that we use internally.
 
 #### Links
-- [GitHub](https://github.com/sourcetrait/sourcetrait_common)
+- [GitHub](https://github.com/sourcetrait/common)
 
 ## Projects (Early Development)
 
 ### SourceTrait Grammar
 Our LLM toolkit.
 
-Provides common governance between Claude and ChatGPT for use on Podman
+Provides common governance between Claude and ChatGPT for use in Podman
 containers based on Fedora Toolbx.
 
 Ships the Grammar MCP which uses the latest Nushell as the primary scripting
