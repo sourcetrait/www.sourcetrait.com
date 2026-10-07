@@ -1,0 +1,44 @@
+# SourceTrait
+> Portable. Extendable. Freedom.
+
+SourceTrait is an open-source software studio with a focus on productivity
+and development kits.
+
+## Projects
+
+### SourceTrait Common
+Our common Rust library that we use internally.
+
+#### Links
+- [GitHub](https://github.com/sourcetrait/common)
+
+## Projects (Early Development)
+
+### SourceTrait Grammar
+Our LLM toolkit.
+
+Provides common governance between Claude and ChatGPT for use in Podman
+containers based on Fedora Toolbx.
+
+Ships the Grammar MCP which uses the latest Nushell as the primary scripting
+and shell language.
+
+#### Links
+- [GitHub](https://github.com/sourcetrait/grammar)
+
+### SourceTrait Jab
+RISC-V assembly kernel and SDK.
+
+Intended to be ran with a gamepad via either QEMU emulation on
+Linux / MacOS / Windows or on native RVA23 compliant hardware.
+
+Intentionally standardizes low-resource system specifications to reach a
+broader audience via emulation and to simplfy game development.
+
+Targeted towards LLM-assisted development and distribution of open-source
+games written entirely in RISC-V assembly.
+
+#### Links
+- [GitHub](https://github.com/sourcetrait/jab)
+- [Website](https://jab.computer) (Currently redirects to GitHub)
+
